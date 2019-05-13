@@ -1,1 +1,2 @@
-"Branch testing while learning vcs"
+Branch Learning while using & interacting with vcs
+& Boosting knowledge
