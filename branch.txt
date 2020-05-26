@@ -2,3 +2,4 @@ Branch Learning while using & interacting with vcs
 & Boosting knowledge in version control system and enable
 me to work with Ubuntu linux based OS
 
+Learn and interacting with branching and merging
